@@ -97,4 +97,3 @@ botonBorrarTodo.addEventListener('click', () =>{
     calculadora.imprimirDisplay()
 })
 
-module.exports = { botonNumero, subtract, multiply, divide, modulo }
